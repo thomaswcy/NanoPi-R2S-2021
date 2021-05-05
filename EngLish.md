@@ -1,4 +1,4 @@
-# English | [中文简体]（https://github.com/DHDAXCW/NanoPi-R2S-2021/blob/main/README.md）
+# English | [中文简体](https://github.com/DHDAXCW/NanoPi-R2S-2021/blob/main/README.md)
 # NanoPi-R2S-2021 The plug-in and kernel version are automatically updated every day.
 ## ``` Since the source code could not be taken out of the hard disk, I had to do it again. , At present, only 70% of the reconstruction progress is used on the closed source of this mirror. Try to deal with it later. The following things have been updated this month.
 ## Samsung TF card\Haikang TF card is strongly recommended. Even if the firmware is difficult to flash, only Samsung flashes it to boot.
