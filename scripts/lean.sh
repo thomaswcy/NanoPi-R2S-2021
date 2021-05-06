@@ -11,7 +11,6 @@ pushd package/community
 
 # Add Lienol's Packages
 git clone --depth=1 https://github.com/Lienol/openwrt-package
-rm -rf ../lean/luci-app-kodexplorer
 
 # 添加 R2S GPU 驱动
 rm -rf ./package/kernel/linux/modules/video.mk
