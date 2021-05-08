@@ -1,4 +1,4 @@
-name: NanoPi R2S WAN\AM OpenWrt
+name: NanoPi R2S WAN\LAN OpenWrt
 on:
   repository_dispatch:
   workflow_dispatch:
