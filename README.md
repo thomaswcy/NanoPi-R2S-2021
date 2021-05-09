@@ -8,7 +8,7 @@
 
 - 用户名：root 密码：password 管理IP：192.168.2.1
 
-- 下载地址（目前已分stable稳定版和beta测试版）： https://github.com/DHDAXCW/NanoPi-R2S-2021/releases
+- 下载地址,目前已分stable稳定版和beta测试版,注意区分(感谢xenstar的提议)： https://github.com/DHDAXCW/NanoPi-R2S-2021/releases
 - 精简版  ： https://github.com/DHDAXCW/NanoPi-R2S-R4S-2021-mini/releases
 - 电报群：https://t.me/DHDAXCW
 - TG频道：https://t.me/FWR2SR4S
@@ -20,7 +20,7 @@
 ## 提示
  - 我的固件加了动态超频，不管热不热这是取决后台运行程序在跑什么。
  - 感觉很热  就加风扇，推荐 风扇6cm×6cm，薄1cm，usb也行 或者端子线zh1.5
-
+ - 更新模块有很严重的问题 目前开发者无法修复
 
 ### 版本日志 5.6
 - 新增虚拟内存
