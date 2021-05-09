@@ -8,9 +8,10 @@
 
 - 用户名：root 密码：password 管理IP：192.168.2.1
 
-- 下载地址： https://github.com/DHDAXCW/NanoPi-R2S-2021/releases
+- 下载地址（目前已分stable稳定版和beta测试版）： https://github.com/DHDAXCW/NanoPi-R2S-2021/releases
 - 精简版  ： https://github.com/DHDAXCW/NanoPi-R2S-R4S-2021-mini/releases
 - 电报群：https://t.me/DHDAXCW
+- TG频道：https://t.me/FWR2SR4S
 # 赏个鸡腿吧
  ![Alt text](data/2.jpg?raw=true "Title")
 ### 如果你觉得此项目对你有帮助，可以捐助我们，以鼓励项目能持续发展，更加完善
