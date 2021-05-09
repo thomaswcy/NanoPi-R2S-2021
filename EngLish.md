@@ -8,7 +8,7 @@ This month I have been begging without a computer (please be in the computer~). 
 
 -Username: root Password: password Management IP: 192.168.2.1
 
--Download link: https://github.com/DHDAXCW/NanoPi-R2S-2021/releases
+-Download link, you can choose the stable or beta version(thanks for xenstar's suggestion): https://github.com/DHDAXCW/NanoPi-R2S-2021/releases
 -Telegram group: https://t.me/DHDAXCW
 # Enjoy a chicken drumstick
  ![Alt ​​text](data/2.jpg?raw=true "Title")
